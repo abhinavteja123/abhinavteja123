@@ -4,7 +4,7 @@
 
 [![Profile Views](https://komarev.com/ghpvc/?username=abhinavteja123&color=6E40C9&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/abhinavteja123)
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=6E40C9&center=true&vCenter=true&width=700&lines=🤖+Multi-Agent+AI+Systems+Builder;📚+RAG+%7C+LLM+Orchestration+%7C+RL+Expert;🧠+Bayesian+Knowledge+Tracing+%2B+PPO;🔬+IEEE+Research+@+SRM+University+AP;⚡+35%2B+Repos+%7C+254+Contributions" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=6E40C9&center=true&vCenter=true&width=700&lines=🤖+Multi-Agent+AI+Systems+Builder;📚+RAG+%7C+LLM+Orchestration+%7C+RL+Expert;🧠+Bayesian+Knowledge+Tracing+%2B+PPO;🔬+Dual+IEEE+Conference+Publications;⚡+Production-Grade+Full-Stack+AI+Apps" alt="Typing SVG" />
 
 </div>
 
@@ -14,12 +14,13 @@
 
 ```python
 class AbhinavTeja:
+
     name        = "Abhinav Teja Mariyala"
     role        = "AI/ML Engineer & Full-Stack Developer"
     university  = "SRM University AP — CSE (AI & ML)"
     reg_no      = "AP23110010233"
     email       = "abhinavteja_mariyala@srmap.edu.in"
-    
+
     focus = [
         "🤖 Multi-Agent AI Systems",
         "📚 Retrieval-Augmented Generation (RAG)",
@@ -28,15 +29,16 @@ class AbhinavTeja:
         "👁️ Computer Vision & NLP",
         "⚡ Production-Grade Full-Stack AI Apps"
     ]
-    
-    fun_facts = [
+
+    highlights = [
         "🧠 Trained a PPO agent whose state is a live BKT mastery vector",
-        "📄 Published IEEE research on AgentRAG-Tutor at SRM AP",
-        "🏆 Built 8-agent autonomous SRE swarm with WhatsApp alerts",
+        "🏆 Dual IEEE-published researcher — AImentor & SVIES",
+        "🛡️ Built 8-agent autonomous SRE swarm with WhatsApp alerts",
         "📈 Stock predictor live on Streamlit — 2685 trading days of INFY.NS",
-        "🔍 FAISS-powered RAG beats BM25 by +21.2 Spearman ρ-points"
+        "🔍 FAISS-powered RAG beats BM25 by +21.2 Spearman ρ-points",
+        "🔧 Built CodeMore — AI-powered VS Code extension for code intelligence"
     ]
-    
+
     currently_building = "Production AI systems that learn, adapt & improve"
 ```
 
@@ -44,7 +46,7 @@ class AbhinavTeja:
 
 ## 🚀 Featured Projects
 
-### 🏆 AImentor — AI Career Mentor Platform *(IEEE Research · SRM University AP)*
+### 🏆 AImentor — AI Career Mentor Platform *(IEEE Conference · SRM University AP)*
 
 > Production-grade full-stack AI platform with **AgentRAG-Tutor** — combining Corrective RAG, 5-component Bayesian Knowledge Tracing, and a PPO Reinforcement Learning difficulty agent.
 
@@ -61,6 +63,23 @@ class AbhinavTeja:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![HuggingFace](https://img.shields.io/badge/🤗_HuggingFace-FFD21F?style=flat-square) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 [![AImentor Repo](https://img.shields.io/badge/📂_View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/abhinavteja123/AImentor)
+
+---
+
+### 🗳️ SVIES — Smart Vehicle Identification & Enforcement System *(IEEE Conference · SRM University AP)*
+
+> AI-powered traffic violation detection and enforcement platform for Indian roads — YOLOv8 7-layer pipeline with real-time processing of images, video, and live camera streams.
+
+- 🚗 **11 Indian Vehicle Types**: CAR, MOTORCYCLE, SCOOTER, AUTO (rickshaw), BUS, TRUCK, TEMPO, TRACTOR, E_RICKSHAW, VAN, SUV
+- 🔡 **License Plate OCR**: Multi-engine (EasyOCR + Tesseract + Groq LLM) supporting standard & BH-series formats
+- 🔍 **Fake Plate Detection**: 5-check system — TYPE_MISMATCH, COLOR_CODE_VIOLATION, FONT_ANOMALY, DUPLICATE_PLATE_CLONE, STATE_MISMATCH
+- 🛡️ **Safety Violations**: Helmet (YOLOv8) + seatbelt detection; ResNet50 vehicle age classification
+- 🌍 **Geofenced Enforcement**: 14+ configurable zones with risk multipliers, speed limits & repeat-offender escalation
+- 🔁 **Active Learning Pipeline**: 3-model version management with feedback-driven fine-tuning
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![YOLOv8](https://img.shields.io/badge/YOLOv8-00FFAB?style=flat-square) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white) ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=flat-square&logo=twilio&logoColor=white)
+
+[![SVIES Repo](https://img.shields.io/badge/📂_View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/abhinavteja123/SVIES)
 
 ---
 
@@ -99,6 +118,22 @@ LogWatcher → IncidentDetector → RiskClassifier → Planner → Approval → 
 
 ---
 
+### 🔧 CodeMore — AI-Powered VS Code Extension
+
+> Developer productivity tool combining automated static analysis, security scanning, and on-demand AI fixes into a zero-friction workflow — fully local by default, privacy-first.
+
+- ⚙️ **Three-Layer Pipeline**: External linters (Biome, Ruff, Semgrep, TFLint, Checkov) + Built-in AST engine + On-demand AI
+- 🔒 **Privacy-First**: All analysis runs locally; source code only leaves your machine when you explicitly request an AI fix
+- 🤖 **Multi-Provider AI**: Works with OpenAI, Anthropic Claude, Google Gemini, or a local self-hosted LLM
+- 📊 **Code Quality Dashboard**: Health metrics, issue severity breakdown, and diff preview for every suggested fix
+- ⚡ **Daemon Architecture**: Analysis runs in a separate Node.js process — editor stays fully responsive
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code_Extension-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white) ![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=white)
+
+[![CodeMore Repo](https://img.shields.io/badge/📂_View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/abhinavteja123/Codemore)
+
+---
+
 ### 📈 Stock Market Prediction — ML + Deep Learning Pipeline
 
 > Binary stock direction classifier (UP/DOWN) for INFY.NS across 2685 trading days with 6 models, 14 technical indicators, and walk-forward validation.
@@ -118,33 +153,10 @@ LogWatcher → IncidentDetector → RiskClassifier → Planner → Approval → 
 
 ---
 
-### 🤖 AutoStream AI Agent — Conversational Lead Generation
-
-> Production-grade conversational AI for SaaS — LangGraph state machine with LLM-based intent detection, RAG, dynamic lead scoring (0-100), intent drift handling, and objection handling.
-
-- 🎯 **Intent Detection**: Gemini 2.5 Flash classifies greeting/inquiry/high_intent
-- 🔄 **Intent Drift**: Pauses lead capture → answers question → resumes naturally
-- 📊 **Lead Scoring**: Pro plan (+40), Platform (+30), Action verbs (+30)
-- 💬 **11-field LangGraph state** maintained across full conversation
-
-![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain) ![Gemini](https://img.shields.io/badge/Gemini_2.5_Flash-4285F4?style=flat-square&logo=google&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain)
-
-[![AutoStream Repo](https://img.shields.io/badge/📂_View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/abhinavteja123/AutoStream_AI_Agent)
-
----
-
 ### 🗂️ More Projects
 
 <table>
 <tr>
-<td align="center" width="33%">
-
-**🏦 Bankers Simulator**<br/>
-Full banking simulation with account management workflows<br/>
-![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)<br/>
-[![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/abhinavteja123/Bankers-simulator)
-
-</td>
 <td align="center" width="33%">
 
 **👁️ Face & Object Detection**<br/>
@@ -161,30 +173,12 @@ Automated crypto trading with strategy execution<br/>
 [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/abhinavteja123/binance-bot)
 
 </td>
-</tr>
-<tr>
-<td align="center">
+<td align="center" width="33%">
 
 **📝 Transformer Abstract Classification**<br/>
 NLP transformer for academic abstract classification<br/>
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)<br/>
 [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/abhinavteja123/Transformer_Abstract_Classification-)
-
-</td>
-<td align="center">
-
-**📊 Machine Learning Labs**<br/>
-ML algorithm implementations & experiments<br/>
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)<br/>
-[![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/abhinavteja123/Machine-Learning-Labs-)
-
-</td>
-<td align="center">
-
-**🗳️ SVIES**<br/>
-Smart Voting & Identity Electronic System<br/>
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)<br/>
-[![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/abhinavteja123/SVIES)
 
 </td>
 </tr>
@@ -239,12 +233,12 @@ Smart Voting & Identity Electronic System<br/>
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=abhinavteja123&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhinavteja123&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=abhinavteja123&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhinavteja123&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhinavteja123&theme=tokyonight&hide_border=true&background=0D1117&stroke=6E40C9&ring=6E40C9&fire=FF6B6B&currStreakLabel=6E40C9" alt="GitHub Streak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=abhinavteja123&theme=tokyonight&hide_border=true&background=0D1117&stroke=6E40C9&ring=6E40C9&fire=FF6B6B&currStreakLabel=6E40C9" alt="GitHub Streak"/>
 </div>
 
 ---
@@ -252,7 +246,7 @@ Smart Voting & Identity Electronic System<br/>
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=abhinavteja123&theme=darkhub&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" alt="GitHub Trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=abhinavteja123&theme=darkhub&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" alt="GitHub Trophies"/>
 </div>
 
 ---
@@ -260,18 +254,19 @@ Smart Voting & Identity Electronic System<br/>
 ## 📈 Contribution Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhinavteja123&theme=tokyo-night&hide_border=true&area=true&bg_color=0D1117&color=6E40C9&line=6E40C9&point=FF6B6B" alt="Contribution Graph" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=abhinavteja123&theme=tokyo-night&hide_border=true&area=true&bg_color=0D1117&color=6E40C9&line=6E40C9&point=FF6B6B" alt="Contribution Graph" width="100%"/>
 </div>
 
 ---
 
-## 📄 Research Publication
+## 📄 Research Publications
 
 <div align="center">
 
 | Paper | Venue | Year |
 |-------|-------|------|
-| **AImentor: Multi-Provider LLM Orchestration, Semantic ATS Scoring & AgentRAG-Tutor for Bayesian-Tracked Adaptive Tutoring** | 🎯 IEEE Conference (Target) | 2026 |
+| **AImentor: Multi-Provider LLM Orchestration, Semantic ATS Scoring & AgentRAG-Tutor for Bayesian-Tracked Adaptive Tutoring** | 🏛️ IEEE Conference | 2026 |
+| **SVIES: Smart Vehicle Identification & Enforcement System — AI-Powered Traffic Violation Detection for Indian Roads** | 🏛️ IEEE Conference | 2026 |
 
 *SRM University AP · Department of CSE (AI & ML)*
 
