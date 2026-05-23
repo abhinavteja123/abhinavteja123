@@ -4,7 +4,7 @@
 
 [![Profile Views](https://komarev.com/ghpvc/?username=abhinavteja123&color=6E40C9&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/abhinavteja123)
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=6E40C9&center=true&vCenter=true&width=700&lines=🤖+Multi-Agent+AI+Systems+Builder;📚+RAG+%7C+LLM+Orchestration+%7C+RL+Expert;🧠+Bayesian+Knowledge+Tracing+%2B+PPO;🔬+Dual+IEEE+Conference+Publications;⚡+Production-Grade+Full-Stack+AI+Apps" alt="Typing SVG" />
+
 
 </div>
 
