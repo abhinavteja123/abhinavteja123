@@ -4,7 +4,6 @@
 
 [![Profile Views](https://komarev.com/ghpvc/?username=abhinavteja123&color=6E40C9&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/abhinavteja123)
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=6E40C9&center=true&vCenter=true&width=700&lines=🤖+Multi-Agent+AI+Systems+Builder;📚+RAG+%7C+LLM+Orchestration+%7C+RL+Expert;🧠+Bayesian+Knowledge+Tracing+%2B+PPO;🔬+Dual+IEEE+Conference+Publications;⚡+Production-Grade+Full-Stack+AI+Apps" alt="Typing SVG" />
 
 </div>
 
@@ -281,7 +280,7 @@ NLP transformer for academic abstract classification<br/>
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email-abhinavteja__mariyala@srmap.edu.in-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhinavteja_mariyala@srmap.edu.in)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhinav-teja-40855a293/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF5733?style=for-the-badge&logo=firefox&logoColor=white)](https://YOUR_PORTFOLIO)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abhinavteja123)
 
