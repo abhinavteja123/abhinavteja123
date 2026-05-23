@@ -2,7 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=6E40C9&height=200&section=header&text=Abhinav%20Teja%20Mariyala&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%2FML%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20Research%20Scholar&descAlignY=55&descSize=18" width="100%"/>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=abhinavteja123&color=6E40C9&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/abhinavteja123)
 
 
 
