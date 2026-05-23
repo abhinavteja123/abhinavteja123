@@ -2,8 +2,9 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=6E40C9&height=200&section=header&text=Abhinav%20Teja%20Mariyala&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%2FML%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20Research%20Scholar&descAlignY=55&descSize=18" width="100%"/>
 
+[![Profile Views](https://komarev.com/ghpvc/?username=abhinavteja123&color=6E40C9&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/abhinavteja123)
 
-
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=6E40C9&center=true&vCenter=true&width=700&lines=🤖+Multi-Agent+AI+%7C+RAG+%7C+RL+Engineer;🔬+Dual+IEEE+Conference+Publications;⚡+Production-Grade+Full-Stack+AI+Apps" alt="Typing SVG" />
 
 </div>
 
@@ -13,30 +14,14 @@
 
 ```python
 class AbhinavTeja:
+    name       = "Abhinav Teja Mariyala"
+    role       = "AI/ML Engineer & Full-Stack Developer"
+    university = "SRM University AP — CSE (AI & ML)"
+    email      = "abhinavteja_mariyala@srmap.edu.in"
 
-    name        = "Abhinav Teja Mariyala"
-    role        = "AI/ML Engineer & Full-Stack Developer"
-    university  = "SRM University AP — CSE (AI & ML)"
-    reg_no      = "AP23110010233"
-    email       = "abhinavteja_mariyala@srmap.edu.in"
+    focus = ["Multi-Agent AI", "RAG", "RL (PPO+BKT)", "LLM Orchestration", "CV & NLP"]
 
-    focus = [
-        "🤖 Multi-Agent AI Systems",
-        "📚 Retrieval-Augmented Generation (RAG)",
-        "🎯 Reinforcement Learning (PPO + BKT)",
-        "🔗 LLM Orchestration & Prompt Engineering",
-        "👁️ Computer Vision & NLP",
-        "⚡ Production-Grade Full-Stack AI Apps"
-    ]
-
-    highlights = [
-        "🧠 Trained a PPO agent whose state is a live BKT mastery vector",
-        "🏆 Dual IEEE-published researcher — AImentor & SVIES",
-        "🛡️ Built 8-agent autonomous SRE swarm with WhatsApp alerts",
-        "📈 Stock predictor live on Streamlit — 2685 trading days of INFY.NS",
-        "🔍 FAISS-powered RAG beats BM25 by +21.2 Spearman ρ-points",
-        "🔧 Built CodeMore — AI-powered VS Code extension for code intelligence"
-    ]
+    publications = ["AImentor — IEEE 2026", "SVIES — IEEE 2026"]
 
     currently_building = "Production AI systems that learn, adapt & improve"
 ```
@@ -189,41 +174,25 @@ NLP transformer for academic abstract classification<br/>
 
 <div align="center">
 
-### 🤖 AI / ML / LLM
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/🤗_HuggingFace-FFD21F?style=for-the-badge)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![Google Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![FAISS](https://img.shields.io/badge/FAISS-00D4FF?style=for-the-badge)
-![Stable Baselines3](https://img.shields.io/badge/stable--baselines3-FF6B6B?style=for-the-badge)
-
-### ⚙️ Backend & Infrastructure
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-### 🎨 Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js_14-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-
-### 🔧 Tools & Platforms
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Docker](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 </div>
 
