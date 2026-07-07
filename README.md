@@ -4,7 +4,6 @@
 
 [![Profile Views](https://komarev.com/ghpvc/?username=abhinavteja123&color=6E40C9&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/abhinavteja123)
 
-
 </div>
 
 ---
@@ -19,35 +18,35 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/🤗_HuggingFace-FFD21F?style=for-the-badge)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![Google Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![FAISS](https://img.shields.io/badge/FAISS-00D4FF?style=for-the-badge)
-![Stable Baselines3](https://img.shields.io/badge/stable--baselines3-FF6B6B?style=for-the-badge)
+![XGBoost](https://img.shields.io/badge/XGBoost-006600?style=for-the-badge)
 
 ### ⚙️ Backend & Infrastructure
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 ### 🎨 Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js_14-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### 🔧 Tools & Platforms
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 </div>
 
@@ -58,102 +57,92 @@
 ```python
 class AbhinavTeja:
 
-    name        = "Abhinav Teja Mariyala"
+    name        = "Mariyala Abhinav Teja"
     role        = "AI/ML Engineer & Full-Stack Developer"
-    university  = "SRM University AP — CSE (AI & ML)"
-    reg_no      = "AP23110010233"
-    email       = "abhinavteja_mariyala@srmap.edu.in"
+    university  = "SRM University AP — B.Tech CSE (AI & ML), CGPA 8.13"
+    location    = "Hyderabad, Telangana, India"
+    email       = "mariyalaabhinavteja@gmail.com"
+    open_to     = "Relocation"
 
     focus = [
+        "🛡️ Static Analysis & Developer Security Tooling",
         "🤖 Multi-Agent AI Systems",
         "📚 Retrieval-Augmented Generation (RAG)",
-        "🎯 Reinforcement Learning (PPO + BKT)",
-        "🔗 LLM Orchestration & Prompt Engineering",
-        "👁️ Computer Vision & NLP",
+        "👁️ Computer Vision (YOLOv8, CRNN, ResNet50)",
+        "🔗 LLM Orchestration & Agentic AI",
         "⚡ Production-Grade Full-Stack AI Apps"
     ]
 
     highlights = [
-        "🧠 Trained a PPO agent whose state is a live BKT mastery vector",
-        "🏆 Dual IEEE-published researcher — AImentor & SVIES",
-        "🛡️ Built 8-agent autonomous SRE swarm with WhatsApp alerts",
-        "📈 Stock predictor live on Streamlit — 2685 trading days of INFY.NS",
-        "🔍 FAISS-powered RAG beats BM25 by +21.2 Spearman ρ-points",
-        "🔧 Built CodeMore — AI-powered VS Code extension for code intelligence"
+        "🔧 Built CodeMore — open-source SAST tool for AI-generated code, ~85% BLOCKER true-positive rate",
+        "🚓 SVIES — 97.7% mAP plate detection, 99.8% char-level OCR accuracy, submitted as IEEE/Springer paper",
+        "🛡️ 8-agent autonomous SRE swarm (SENTINEL-AI) with sub-10-second triage",
+        "🔍 ResolveIT AI — HyDE + hybrid FAISS/BM25 retrieval with zero hallucinated citations",
+        "🔒 ProofSnap — 7-step cryptographic deepfake verification pipeline, HackSRM 7.0 winner"
     ]
 
-    currently_building = "Production AI systems that learn, adapt & improve"
+    currently_building = "Developer tools and agentic AI systems that are secure by construction"
 ```
+
+---
+
+## 💼 Experience
+
+**Auracoders** — Data Mining, IT Support & Software Developer Intern *(Remote, India)* · May 2025 – Present
+Technical SEO audits and page-speed optimizations (Core Web Vitals) cutting load time by 30%+; automated Python data-validation pipelines processing 1,000+ records per batch.
+
+**Kokonda Dental Hospital** — Full Stack Developer Intern *(Hyderabad, India)* · May – Aug 2025
+Built React.js + Firebase features improving page load by 25%; developed admin dashboards for patient and appointment management.
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🏆 AImentor — AI Career Mentor Platform *(IEEE Conference · SRM University AP)*
+### 🔧 CodeMore — AI-Native Static Analysis Tool
 
-> Production-grade full-stack AI platform with **AgentRAG-Tutor** — combining Corrective RAG, 5-component Bayesian Knowledge Tracing, and a PPO Reinforcement Learning difficulty agent.
+> Open-source SAST tool purpose-built for AI-generated ("vibe-coded") code — a single shared rule engine shipped across four surfaces, catching what standard scanners miss due to `.gitignore` blind spots.
 
-| Metric | AImentor | Baseline |
-|--------|----------|----------|
-| 🔗 LLM End-to-End Success | **99.3%** | Single Groq: 84.4% |
-| 🎯 ATS Spearman ρ (200-pair) | **0.820 ± 0.030** | BM25: 0.452 (+21.2 pts) |
-| 🧠 Hallucination Rate (RAGAS) | **18.0%** | Static RAG: 34.3% |
-| 📊 Pilot Learning Gain (Hake) | **59.7 ± 20.6%** | N=5 pilot |
-| ⭐ Satisfaction (5-pt Likert) | **4.4 / 5** | N=5 pilot |
+- ⚙️ **58 native rules across 7 packs**: core-security, core-quality, vibe-auth, vibe-frontend, vibe-secrets, vibe-supabase, vibe-llm — plus 8 external adapters (Ruff, Biome, Bandit, Gitleaks, and more)
+- 🎯 **~85% BLOCKER true-positive rate**, audited across 10 real codebases
+- 🔍 **Real vulnerabilities caught**: live OpenAI keys, Firebase Admin SDK credentials, and Supabase RLS-disabled tables missed by standard scanners
+- 🖥️ **4 surfaces, 1 engine**: CLI (`npx codemore scan`) · MCP server (6 tools — `scan_project`, `explain_issue`, `apply_fix`, `validate_fix`, for Cursor/Claude Code/Codex) · VS Code extension with an agentic fix loop (planner → generator → validator, ≤3 retries) · GitHub Action CI gate
+- 📄 All surfaces emit a schema-stable `codemore-report.json v1.0.0`, built to be consumed directly by AI coding agents
 
-**Key Components:** LLM Chain (Groq→Cerebras→Gemini) · CRAG + BKT + PPO Agent · Semantic ATS Scorer · DistilBERT Intent Classifier · Resume PDF/LaTeX Builder · Streak Tracking
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code_Extension-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) ![MCP](https://img.shields.io/badge/MCP-6E40C9?style=flat-square) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![HuggingFace](https://img.shields.io/badge/🤗_HuggingFace-FFD21F?style=flat-square) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-
-[![AImentor Repo](https://img.shields.io/badge/📂_View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/abhinavteja123/AImentor)
+[![CodeMore Repo](https://img.shields.io/badge/📂_View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/abhinavteja123/Codemore)
 
 ---
 
-### 🗳️ SVIES — Smart Vehicle Identification & Enforcement System *(IEEE Conference · SRM University AP)*
+### 🚓 SVIES — Smart Vehicle Intelligence & Enforcement System *(IEEE/Springer Conference Paper Submitted)*
 
-> AI-powered traffic violation detection and enforcement platform for Indian roads — YOLOv8 7-layer pipeline with real-time processing of images, video, and live camera streams.
+> End-to-end 7-layer AI traffic enforcement pipeline, trained on an NVIDIA V100, for real-time violation detection on Indian roads.
 
-- 🚗 **11 Indian Vehicle Types**: CAR, MOTORCYCLE, SCOOTER, AUTO (rickshaw), BUS, TRUCK, TEMPO, TRACTOR, E_RICKSHAW, VAN, SUV
-- 🔡 **License Plate OCR**: Multi-engine (EasyOCR + Tesseract + Groq LLM) supporting standard & BH-series formats
-- 🔍 **Fake Plate Detection**: 5-check system — TYPE_MISMATCH, COLOR_CODE_VIOLATION, FONT_ANOMALY, DUPLICATE_PLATE_CLONE, STATE_MISMATCH
-- 🛡️ **Safety Violations**: Helmet (YOLOv8) + seatbelt detection; ResNet50 vehicle age classification
-- 🌍 **Geofenced Enforcement**: 14+ configurable zones with risk multipliers, speed limits & repeat-offender escalation
-- 🔁 **Active Learning Pipeline**: 3-model version management with feedback-driven fine-tuning
+- 🎯 **Detection accuracy**: custom YOLOv8 models at 97.7% mAP@50 (plate detection) and 74.4% mAP@50 (helmet detection, trained across 14,947 images from 10 datasets)
+- 🔡 **License Plate OCR**: custom CRNN with BiLSTM + CTC decoder — 99.8% character accuracy, 98.1% full-plate accuracy — with multi-engine fallback (EasyOCR + Tesseract + Groq Llama 4), 6 preprocessing variants, and IS 10731 grammar-constrained correction across all 36 Indian state codes
+- 🔍 **Fake plate forensics**: 5-check system (TYPE_MISMATCH, COLOR_CODE_VIOLATION against CMVR rules, FONT_ANOMALY per IS 10731, DUPLICATE_PLATE_CLONE, STATE_MISMATCH) backed by VAHAN/PUCC/Insurance database intelligence
+- 🌍 **Geofenced enforcement** across 14+ zones (Shapely-based) with repeat-offender escalation scoring and auto-generated PDF court summons
+- 🖥️ **12-page React dashboard** with Firebase Auth (ADMIN/POLICE/RTO/VIEWER roles) and an active-learning pipeline for feedback-driven YOLOv8 fine-tuning with versioned hot-swap deployment
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![YOLOv8](https://img.shields.io/badge/YOLOv8-00FFAB?style=flat-square) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white) ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=flat-square&logo=twilio&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![YOLOv8](https://img.shields.io/badge/YOLOv8-00FFAB?style=flat-square) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 
 [![SVIES Repo](https://img.shields.io/badge/📂_View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/abhinavteja123/SVIES)
 
 ---
 
-### 🔍 ResolveIT AI — RAG-Powered IT Runbook Assistant
-
-> Semantic IT support system — FAISS vector search + cross-encoder re-ranking + Gemini 1.5 Flash RAG generation with admin dashboard and feedback loop.
-
-- 📄 **Multi-format ingestion**: PDF, DOCX, TXT with section-aware chunking
-- 🔁 **Cross-encoder re-ranking** (ms-marco-MiniLM) for precision over cosine similarity
-- 📊 **Confidence scoring** (sigmoid-normalized) + 👍/👎 feedback to PostgreSQL
-- 🔐 **Firebase Google Auth** with JWT verification
-- 🗄️ **Admin dashboard**: upload runbooks, monitor stats, query audit log
-
-![FAISS](https://img.shields.io/badge/FAISS-00D4FF?style=flat-square) ![Gemini](https://img.shields.io/badge/Gemini_1.5_Flash-4285F4?style=flat-square&logo=google&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-
-[![ResolveIT Repo](https://img.shields.io/badge/📂_View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/abhinavteja123/resolveit-ai)
-
----
-
 ### 🛡️ SENTINEL-AI — Autonomous Incident Management System
 
-> 8-agent swarm SRE platform — auto-detects, classifies, and remediates production incidents with human-in-the-loop safety guardrails and multi-channel alerting.
+> Autonomous SRE platform with an 8-agent swarm powered by Google ADK + Gemini 2.0 Flash Lite — sub-10-second end-to-end triage with a human-in-the-loop gate for high-severity incidents.
 
 ```
 LogWatcher → IncidentDetector → RiskClassifier → Planner → Approval → Executor → Memory + Chat
 ```
 
-- 🚨 **Multi-Channel Alerts**: WhatsApp (Twilio) + Email (SMTP) + WebSocket real-time dashboard
-- 🔒 **Safety Guardrails**: HIGH/CRITICAL incidents require human approval before execution
-- 🧠 **Memory Agent**: Learns from past incident patterns using Google Gemini 2.0
-- 💬 **Google ADK Chat**: Conversational AI for incident analysis and Q&A
+- ⚡ **Sub-10-second triage** with automated remediation for LOW/MEDIUM severity incidents
+- 🔒 **Human-in-the-loop approval gate** for HIGH/CRITICAL incidents, with modify/reject options to prevent destructive actions
+- 🚨 **Multi-channel alerting**: Twilio WhatsApp + Gmail SMTP HTML emails, plus a real-time WebSocket dashboard with an agent activity observer
+- 🧠 **Memory agent** that stores incident patterns for continuous remediation improvement
+- ⚙️ Full async FastAPI backend with Pydantic type safety and graceful degradation
 
 ![Gemini](https://img.shields.io/badge/Gemini_2.0-4285F4?style=flat-square&logo=google&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=flat-square&logo=twilio&logoColor=white) ![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=flat-square)
 
@@ -161,71 +150,38 @@ LogWatcher → IncidentDetector → RiskClassifier → Planner → Approval → 
 
 ---
 
-### 🔧 CodeMore — AI-Powered VS Code Extension
+### 🔍 ResolveIT AI — RAG-Powered IT Runbook Assistant
 
-> Developer productivity tool combining automated static analysis, security scanning, and on-demand AI fixes into a zero-friction workflow — fully local by default, privacy-first.
+> IT runbook assistant with a 4-stage retrieval pipeline and a confidence gate that refuses to answer below threshold — eliminating hallucinated citations entirely.
 
-- ⚙️ **Three-Layer Pipeline**: External linters (Biome, Ruff, Semgrep, TFLint, Checkov) + Built-in AST engine + On-demand AI
-- 🔒 **Privacy-First**: All analysis runs locally; source code only leaves your machine when you explicitly request an AI fix
-- 🤖 **Multi-Provider AI**: Works with OpenAI, Anthropic Claude, Google Gemini, or a local self-hosted LLM
-- 📊 **Code Quality Dashboard**: Health metrics, issue severity breakdown, and diff preview for every suggested fix
-- ⚡ **Daemon Architecture**: Analysis runs in a separate Node.js process — editor stays fully responsive
+- 🔎 **4-stage pipeline**: HyDE query expansion → hybrid search (FAISS dense vectors with BAAI/bge-small-en-v1.5 + BM25 keyword search) → BGE cross-encoder re-ranking (BAAI/bge-reranker-base) → confidence gate
+- ⚡ **Streaming answers** delivered token-by-token via Server-Sent Events
+- 🎛️ **6 configurable answer modes**: fast / standard / deep / eli5 / expert / dryrun, with inline source citations per resolution step
+- 🔐 **Full-stack deployment**: Firebase Google Auth, Supabase PostgreSQL audit logging, per-user runbook uploads, bookmarks, shareable answer links, Markdown export, admin analytics (feedback stats, runbook health, knowledge-gap detection)
+- 🐳 Containerized with Docker Compose
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code_Extension-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white) ![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-00D4FF?style=flat-square) ![Gemini](https://img.shields.io/badge/Gemini_2.5_Flash-4285F4?style=flat-square&logo=google&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 
-[![CodeMore Repo](https://img.shields.io/badge/📂_View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/abhinavteja123/Codemore)
-
----
-
-### 📈 Stock Market Prediction — ML + Deep Learning Pipeline
-
-> Binary stock direction classifier (UP/DOWN) for INFY.NS across 2685 trading days with 6 models, 14 technical indicators, and walk-forward validation.
-
-[![Live Streamlit App](https://img.shields.io/badge/🚀_Live_Demo-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://stockmarketprediction1.streamlit.app/) [![Interactive Dashboard](https://img.shields.io/badge/📊_Dashboard-0078D4?style=for-the-badge&logo=render&logoColor=white)](https://stock-market-prediction-frontend.onrender.com/)
-
-| Model | Valid AUC | F1 Score |
-|-------|-----------|----------|
-| **SVM (Poly) ⭐** | 0.5437 | **0.6540** |
-| Logistic Regression | 0.5474 | 0.6523 |
-| LSTM (Deep Learning) | — | — |
-| XGBoost | 0.4545 | 0.6523 |
-
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![XGBoost](https://img.shields.io/badge/XGBoost-006600?style=flat-square) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-
-[![Stock Repo](https://img.shields.io/badge/📂_View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/abhinavteja123/Stock_Market_prediction)
+[![ResolveIT Repo](https://img.shields.io/badge/📂_View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/abhinavteja123/resolveit-ai)
 
 ---
 
-### 🗂️ More Projects
+### 🔒 ProofSnap — Deepfake Authentication App *(HackSRM 7.0 Winner)*
 
-<table>
-<tr>
-<td align="center" width="33%">
+> React Native mobile app combating deepfake misinformation via a 7-step cryptographic pipeline — any single-pixel tampering mathematically invalidates the hash chain.
 
-**👁️ Face & Object Detection**<br/>
-Real-time CV pipeline using Python & OpenCV<br/>
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)<br/>
-[![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/abhinavteja123/Face_object_detection)
+```
+SHA-256 hash → Ed25519 signing → DataHaven blockchain anchor → SightEngine deepfake detection → Trust Score → watermarking → Supabase sync
+```
 
-</td>
-<td align="center" width="33%">
+- ⛓️ **On-chain anchoring**: EVM Chain 55931, custom `MediaProof.sol` (Solidity 0.8.20) smart contract
+- 🎯 **Trust Score** (0–100, S/A/B/C/F grading) with a TTL-weighted algorithm deducting for deepfake score, AI-generation score, plagiarism, and chain-of-custody gaps
+- 📴 **Offline-first**: expo-sqlite local cache, expo-secure-store hardware-backed key storage
+- 🔍 **3-mode verification**: TX hash / file hash / image re-hash, plus a batch gallery scanner for tamper detection across device photos
 
-**💰 Binance Bot**<br/>
-Automated crypto trading with strategy execution<br/>
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)<br/>
-[![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/abhinavteja123/binance-bot)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white) ![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
-</td>
-<td align="center" width="33%">
-
-**📝 Transformer Abstract Classification**<br/>
-NLP transformer for academic abstract classification<br/>
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)<br/>
-[![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/abhinavteja123/Transformer_Abstract_Classification-)
-
-</td>
-</tr>
-</table>
+[![ProofSnap Devfolio](https://img.shields.io/badge/📂_View_Project-6E40C9?style=for-the-badge&logo=devfolio&logoColor=white)](https://devfolio.co/projects/proofsnap-ef2b)
 
 ---
 
@@ -258,20 +214,14 @@ NLP transformer for academic abstract classification<br/>
 
 ---
 
-## 📄 Research Publications
+## 🎓 Education & Achievements
 
-<div align="center">
+**SRM University AP** — B.Tech in Computer Science and Engineering (AI & ML) · 2023 – 2027 · CGPA 8.13
 
-| Paper | Venue | Year |
-|-------|-------|------|
-| **AImentor: Multi-Provider LLM Orchestration, Semantic ATS Scoring & AgentRAG-Tutor for Bayesian-Tracked Adaptive Tutoring** | 🏛️ IEEE Conference | 2026 |
-| **SVIES: Smart Vehicle Identification & Enforcement System — AI-Powered Traffic Violation Detection for Indian Roads** | 🏛️ IEEE Conference | 2026 |
-
-*SRM University AP · Department of CSE (AI & ML)*
-
-*M. Abhinav Teja · M. Geethik Kumar · K. Shashank · Revanth M. · Akbar Bashee Shaik*
-
-</div>
+- 🏆 **HackSRM 7.0 — Winner, Sponsor Track**: ProofSnap, blockchain-based tamper-proof media verification platform
+- ☁️ **AWS Certified Cloud Practitioner** — 2025
+- 🐍 **The Joy of Python** — NPTEL
+- 🎨 **Web & Mobile UI/UX Design (Figma)** — Udemy
 
 ---
 
@@ -279,14 +229,14 @@ NLP transformer for academic abstract classification<br/>
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-abhinavteja__mariyala@srmap.edu.in-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhinavteja_mariyala@srmap.edu.in)
+[![Email](https://img.shields.io/badge/Email-mariyalaabhinavteja@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mariyalaabhinavteja@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhinav-teja-40855a293/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF5733?style=for-the-badge&logo=firefox&logoColor=white)](https://YOUR_PORTFOLIO)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF5733?style=for-the-badge&logo=firefox&logoColor=white)](https://abhinavteja.vercel.app)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abhinavteja123)
 
 <br/>
 
-**📍 Amaravati, Andhra Pradesh, India · SRM University AP**
+**📍 Hyderabad, Telangana, India · SRM University AP · Open to Relocation**
 
 *💡 "Building AI systems that don't just work — they learn, adapt, and improve."*
 
